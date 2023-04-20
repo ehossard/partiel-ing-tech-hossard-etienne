@@ -1,0 +1,8 @@
+Le back-end est la partie d'une application ou d'un site web qui est invisible pour les utilisateurs. 
+Il représente la grande majorité du travail car c'est le cerveau de l'application ou du site web.
+C'est là que les données sont stockées et traitées, et les interactions avec la base de données sont gérées. 
+Le back-end s'occupe également de la création et de la gestion des API.
+Il peut également gérer la sécurité, la mise à l'échelle, la gestion de la performance 
+et d'autres aspects techniques nécessaires pour que l'application ou le site web fonctionne correctement.
+Le développement du back-end peut nécessiter l'utilisation de langages de programmation 
+tels que Node.js, PHP, etc...
