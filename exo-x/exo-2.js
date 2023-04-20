@@ -7,9 +7,7 @@ class Avion {
       this.reservoir = reservoir;
       this.vitesse = vitesse;
     }
-  }
   
-  const avion1 = new Avion('Airbus', 'a380', 100, 700, 20000, 900);
 
 
 
@@ -55,3 +53,7 @@ get marque() {
   set vitesse(vitesse) {
     this._vitesse = vitesse;
   }
+}
+
+
+const avion1 = new Avion('Airbus', 'a380', 100, 700, 20000, 900);
