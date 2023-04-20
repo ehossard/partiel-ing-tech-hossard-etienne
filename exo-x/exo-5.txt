@@ -1,0 +1,16 @@
+Node.js est un logiciel open source, il donne un environnement 
+d'exécution pour le langage de programmation JavaScript. 
+Il permet d'exécuter du code JavaScript côté serveur.
+
+
+Node.js peut être utilisé pour créer des applications web, 
+des outils en ligne de commande, des API... 
+Il utilise un modèle de programmation orienté événements non bloquants, 
+ce qui permet de gérer efficacement de nombreux clients simultanément.
+
+
+Node.js inclut également un gestionnaire de package qui permet aux développeurs d'installer, 
+de partager et de gérer des modules et des bibliothèques JavaScript.
+
+
+Quand le code est exécuté, il faut voir les résultats dans le terminal.
