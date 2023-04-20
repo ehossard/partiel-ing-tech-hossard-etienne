@@ -27,3 +27,7 @@ function additionnerPlaces(tableau) {
     return totalPlaces;
   }
   
+
+
+  const total = additionnerPlaces(tableauAvions);
+console.log(`Le nombre total de places contenu dans ce tableau d'avion est ${total}.`);
